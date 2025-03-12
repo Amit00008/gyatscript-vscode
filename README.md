@@ -1,8 +1,8 @@
 # Gyatscript - VSCode Extension
 
-[![Version](https://img.shields.io/visual-studio-marketplace/v/amitdev.gyatscript)](https://marketplace.visualstudio.com/items?itemName=amitdev.gyatscript)
-[![Downloads](https://img.shields.io/visual-studio-marketplace/d/amitdev.gyatscript)](https://marketplace.visualstudio.com/items?itemName=amitdev.gyatscript)
-[![Rating](https://img.shields.io/visual-studio-marketplace/r/amitdev.gyatscript)](https://marketplace.visualstudio.com/items?itemName=amitdev.gyatscript)
+[![Version](https://img.shields.io/visual-studio-marketplace/v/amitdev.gyat)](https://marketplace.visualstudio.com/items?itemName=amitdev.gyatscript)
+[![Downloads](https://img.shields.io/visual-studio-marketplace/d/amitdev.gyat)](https://marketplace.visualstudio.com/items?itemName=amitdev.gyatscript)
+[![Rating](https://img.shields.io/visual-studio-marketplace/r/amitdev.gyat)](https://marketplace.visualstudio.com/items?itemName=amitdev.gyatscript)
 
 
 [![NPM Version](https://img.shields.io/npm/v/gyatscript.svg)](https://www.npmjs.com/package/gyatscript)
