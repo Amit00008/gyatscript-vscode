@@ -1,0 +1,11 @@
+{
+    "iconDefinitions": {
+      "gyatscript-icon": {
+        "iconPath": "./gyatscript-icon.png"
+      }
+    },
+    "fileExtensions": {
+      "gyat": "gyatscript-icon"
+    }
+  }
+  
