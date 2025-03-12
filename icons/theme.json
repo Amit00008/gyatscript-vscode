@@ -1,11 +1,13 @@
 {
-    "iconDefinitions": {
-      "gyatscript-icon": {
-        "iconPath": "./gyatscript-icon.png"
-      }
-    },
-    "fileExtensions": {
-      "gyat": "gyatscript-icon"
+  "iconDefinitions": {
+    "gyat-icon": {
+      "iconPath": "./gyatscript-icon.png"
     }
+  },
+  "fileExtensions": {
+    "gyat": "gyat-icon"
+  },
+  "languageIds": {
+    "gyatscript": "gyat-icon"
   }
-  
+}
