@@ -7,7 +7,7 @@
   },
   "displayName": "gyatscript",
   "description": "A simple Tik-Tok brainrot meme based scripting language",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "engines": {
     "vscode": "^1.98.0"
   },
