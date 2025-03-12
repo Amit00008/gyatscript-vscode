@@ -7,19 +7,28 @@
   },
   "displayName": "gyatscript",
   "description": "A simple Tik-Tok brainrot meme based scripting language",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.98.0"
   },
-  "categories": ["Programming Languages"],
-  "activationEvents": ["onLanguage:gyatscript"],
+  "categories": [
+    "Programming Languages"
+  ],
+  "activationEvents": [
+    "onLanguage:gyatscript"
+  ],
   "main": "./dist/extension.js",
   "contributes": {
     "languages": [
       {
         "id": "gyatscript",
-        "aliases": ["GyatScript", "gyat"],
-        "extensions": [".gyat"],
+        "aliases": [
+          "GyatScript",
+          "gyat"
+        ],
+        "extensions": [
+          ".gyat"
+        ],
         "configuration": "./language-configuration.json"
       }
     ],
