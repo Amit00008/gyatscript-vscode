@@ -1,5 +1,10 @@
 {
   "name": "gyat",
+  "publisher": "amitdev",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Amit00008/gyat.git"
+  },
   "displayName": "gyatscript",
   "description": "A simple Tik-Tok brainrot meme based scripting language",
   "version": "0.0.1",

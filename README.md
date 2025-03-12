@@ -1,8 +1,8 @@
 # Gyatscript - VSCode Extension
 
-[![Version](https://img.shields.io/visual-studio-marketplace/v/your-publisher.gyatscript)](https://marketplace.visualstudio.com/items?itemName=your-publisher.gyatscript)
-[![Downloads](https://img.shields.io/visual-studio-marketplace/d/your-publisher.gyatscript)](https://marketplace.visualstudio.com/items?itemName=your-publisher.gyatscript)
-[![Rating](https://img.shields.io/visual-studio-marketplace/r/your-publisher.gyatscript)](https://marketplace.visualstudio.com/items?itemName=your-publisher.gyatscript)
+[![Version](https://img.shields.io/visual-studio-marketplace/v/amitdev.gyatscript)](https://marketplace.visualstudio.com/items?itemName=amitdev.gyatscript)
+[![Downloads](https://img.shields.io/visual-studio-marketplace/d/amitdev.gyatscript)](https://marketplace.visualstudio.com/items?itemName=amitdev.gyatscript)
+[![Rating](https://img.shields.io/visual-studio-marketplace/r/amitdev.gyatscript)](https://marketplace.visualstudio.com/items?itemName=amitdev.gyatscript)
 
 
 [![NPM Version](https://img.shields.io/npm/v/gyatscript.svg)](https://www.npmjs.com/package/gyatscript)
@@ -21,9 +21,9 @@ A Visual Studio Code extension that provides enhanced language support for Gyats
 
 1. Open Visual Studio Code
 2. Press `Ctrl+P` (Windows/Linux) or `Cmd+P` (macOS) to open the Quick Open dialog
-3. Type `ext install your-publisher.gyatscript` and press Enter
+3. Type `ext install amitdev.gyatscript` and press Enter
 
-Or install through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=your-publisher.gyatscript).
+Or install through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=amitdev.gyatscript).
 
 ## Usage
 
